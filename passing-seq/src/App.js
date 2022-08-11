@@ -1,11 +1,5 @@
-import BarChart from "./components/BarChart";
-
 function App() {
-  return (
-    <div>
-      <BarChart />
-    </div>
-  );
+  return <div>hello</div>;
 }
 
 export default App;
